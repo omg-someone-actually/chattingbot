@@ -1,7 +1,7 @@
 # chattingbot
 A simple chatting bot, no AI, mainly for a few servers.
 
-For setup, go to https://repl.it (*I am reccomedning this so everyone can use it and its the simplest*)
+For setup, go to https://repl.it (*I am reccomedning this so everyone can use it and its the simplest*) <hr>
 Go to the top right and create a new project, make it a "python" project.
 Copy paste the code.
 Go to https://discord.com/developers/applications and make a new application, name it whatever you want your bot to be named.
