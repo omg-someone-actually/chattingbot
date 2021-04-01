@@ -7,6 +7,8 @@ Go to the top right and create a new project, make it a "python" project.<br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827242613584953394/unknown.png", alt="repl.it python project/"> <br/>
 Copy paste the code.<br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827243091572293663/unknown.png", alt="The code"> <br/>
+Now make another file called "sevrers.json". <br/>
+<img src="https://cdn.discordapp.com/attachments/705527563547705486/827250610330927144/unknown.png", alt="json file."> <br/>
 Go to https://discord.com/developers/applications and make a new application, name it whatever you want your bot to be named.<br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827243336318320680/unknown.png", alt="Making a discord application."> <br/>
 Scroll down and find "add a bot", add it. Then name the bot whatever and give it a profile picture.<br/>
