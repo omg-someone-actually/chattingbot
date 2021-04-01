@@ -11,7 +11,7 @@ Go to https://discord.com/developers/applications and make a new application, na
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827243336318320680/unknown.png", alt="Making a discord application."> <br/>
 Scroll down and find "add a bot", add it. Then name the bot whatever and give it a profile picture.<br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827243581080207420/unknown.png", alt="Adding a bot"> <br/>
-CLick "copy token" and go back to repl.it.<br/>
+Click "copy token" and go back to repl.it.<br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827243835892564008/unknown.png", alt="getting your token"> <br/>
 Then scroll down and find "client.run()", replace what I said with your token. <br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827244477659873280/unknown.png", alt="Adding your token">
