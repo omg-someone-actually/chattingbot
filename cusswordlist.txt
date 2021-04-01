@@ -1,0 +1,5 @@
+nonowords = ['fuck', 'dick', 'ass', 'pussy', 'bitch', 'cunt', 'damn', 'balls', 'nigger', 'nigga', 'fag', 'shit', 'Fuck', 'Dick', 'Ass', 'Pussy', 'Bitch', 'Cunt', 'Damn', 'Balls', 'Nigger', 'Nigga', 'Fag', 'Shit', 'FUCK', 'DICK', 'ASS', 'PUSSY', 'BITCH', 'CUNT', 'DAMN', 'BALLS', 'NIGGER', 'NIGGA', 'FAG', 'SHIT']
+
+nonowords2 = ['fuck', 'dick', 'ass', 'pussy', 'bitch', 'cunt', 'damn', 'balls', 'nigger', 'nigga', 'fag', 'shit', 'Fuck', 'Dick', 'Ass', 'Pussy', 'Bitch', 'Cunt', 'Damn', 'Balls', 'Nigger', 'Nigga', 'Fag', 'Shit', 'FUCK', 'DICK', 'ASS', 'PUSSY', 'BITCH', 'CUNT', 'DAMN', 'BALLS', 'NIGGER', 'NIGGA', 'FAG', 'SHIT', 'fucky', 'rape', 'anal', 'fuc', 'fuk', 'niger', 'f u', 'dam']
+
+nonowords3 = ['fuck', 'dick', 'ass', 'pussy', 'bitch', 'cunt', 'damn', 'balls', 'nigger', 'nigga', 'fag', 'shit', 'Fuck', 'Dick', 'Ass', 'Pussy', 'Bitch', 'Cunt', 'Damn', 'Balls', 'Nigger', 'Nigga', 'Fag', 'Shit', 'FUCK', 'DICK', 'ASS', 'PUSSY', 'BITCH', 'CUNT', 'DAMN', 'BALLS', 'NIGGER', 'NIGGA', 'FAG', 'SHIT', 'fucky', 'rape', 'anal', 'fuc', 'fuk', 'niger', 'f u', 'dam']
