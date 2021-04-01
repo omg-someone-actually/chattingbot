@@ -15,9 +15,21 @@ CLick "copy token" and go back to repl.it.<br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827243835892564008/unknown.png", alt="getting your token"> <br/>
 Then scroll down and find "client.run()", replace what I said with your token. <br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827244477659873280/unknown.png", alt="Adding your token">
+You can now change the prefix, scroll up and find the "prefix" variable and change it. <br/>
+<img src="https://cdn.discordapp.com/attachments/705527563547705486/827247991449845850/unknown.png", alt="Change the prefix."> <br/>
+You can also add the cussword list we got, go to the "cusswordlist.txt" and copy paste them. <br/>
+<img src="https://cdn.discordapp.com/attachments/705527563547705486/827248973630668860/unknown.png", alt="adding the cusswords"> <br/>
 Now click the green "run" button, your bot will run as long as the page is open in your browser. <br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827245307355987999/unknown.png", alt="Running the bot"> <br/>
 Now you have sucessfully setup your bot, time to invite it!
 <hr>
 Go back to your application in discord. and go to "OAuth2" <br/>
 <img src="https://cdn.discordapp.com/attachments/705527563547705486/827245984722845746/unknown.png", alt="Authorization."> <br/>
+Scroll down and find scopes, click "bot" then scroll some more and for permissions click "admin". <br/>
+<img src="https://cdn.discordapp.com/attachments/705527563547705486/827246563532341278/unknown.png", alt="Making the url."> <br/>
+Now click the copy button between "scopes" and "permisions", you can send this to anyone. <br/>
+<img src="https://cdn.discordapp.com/attachments/705527563547705486/827246822220103710/unknown.png", alt="Getting the invite."> <br/>
+With this you can give it to friends, or you can paste it in your browser, with this link you can find your server and add the bot. <br/>
+<img src="https://cdn.discordapp.com/attachments/705527563547705486/827247354024427590/unknown.png", alt="Adding it to a server"> <br/>
+<hr>
+Now with your prefix you can do {prefix}start, also add on to the bot!
